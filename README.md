@@ -41,14 +41,18 @@
 
 ## ⭐ Top Features
 
-- ### 🖼️ Photo Downloader (`A` or `a`)
-  ![Photo](https://user-images.githubusercontent.com/73993775/142864010-d7d2048c-4ea8-4efb-8759-993c847bf110.gif)
+-- ### 🖼️ Photo Downloader (`A` or `a`)
+  *Downloads a post image from [@aur1c_aur4](https://www.instagram.com/aur1c_aur4/)*
+  ![Photo](YOUR_PHOTO_GIF_LINK_HERE)
 
 - ### 🎞️ Video Downloader (`B` or `b`)
-  ![Video](https://user-images.githubusercontent.com/73993775/142864128-6177e11a-2a03-49bb-bd9b-3b16dff9da66.gif)
+  *Downloads a reel or video from [@aur1c_aur4](https://www.instagram.com/aur1c_aur4/)*
+  ![Video](YOUR_VIDEO_GIF_LINK_HERE)
 
 - ### 🧑‍🦱 Profile Picture Downloader (`C` or `c`)
-  ![DP](https://user-images.githubusercontent.com/73993775/142864206-d329f63b-e644-41a1-b4aa-b02c6372f39a.gif)
+  *Fetches the profile picture of [@aur1c_aur4](https://www.instagram.com/aur1c_aur4/)*
+  ![DP](YOUR_PROFILE_PIC_GIF_LINK_HERE)
+
 
 - ### ❌ Exit Option (`E` or `e`)
 - 🚫 No login or API key needed.
