@@ -5,7 +5,6 @@
 
 # <p align="center">📥 InstaStore</p>
 ## <p align="center">A Simple Instagram Photo & Video Downloader (No API Required)</p>
-
 ---
 
 ## 🧾 Table of Contents
